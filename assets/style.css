@@ -1,0 +1,30 @@
+body {
+    background: rgb(33, 31, 31);
+    color: whitesmoke;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 95%;
+}
+.timer {
+    display: inline;
+    text-align: right;
+    padding-right: 50px;
+}
+
+.container {
+    padding: 20px;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
+
+.start {
+    align-items: center;
+    text-align: center;
+    }
