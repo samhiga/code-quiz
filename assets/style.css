@@ -11,11 +11,6 @@ header {
     margin: auto;
     width: 95%;
 }
-.timer {
-    display: inline;
-    text-align: right;
-    padding-right: 50px;
-}
 
 .container {
     padding: 20px;
